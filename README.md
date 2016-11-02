@@ -1,8 +1,8 @@
 # ML_Nano
+
 Machine Learning Nano Degree 
 
-Titanic Survival Exploration Homework! 
-New files, updated after feedback from Professor. 
+Predicting Boston Housing Prices! 
+Uploading files for the first time.  
 
-Uploaded report.html and titanic_survival_exploration.ipynb again after feedback from Professor - 9/12/2016. 
-
+Uploaded report.html and boston_housing.ipynb Nov 2nd, 2016.  
